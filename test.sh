@@ -1,0 +1,1 @@
+python translate.py -data_pkl .data/m30k_deen_shr.pkl -model checkpoints/trained.chkpt -output prediction.txt
